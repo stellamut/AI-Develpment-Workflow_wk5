@@ -11,7 +11,7 @@
 |------|-------|------|
 | Max (change to real name) | [your-email@example.com](mailto:your-email@example.com) | Team Leader |
 | Alfred Nyongesa | [alfred.dev8@gmail.com](mailto:alfred.dev8@gmail.com) | Technical Implementation |
-| Feli (change to real name) | [your-email@example.com](mailto:your-email@example.com) | Data Analysis |
+| Felistus Mukiri | [mukirifelistus@gmail.com](mailto:mukirifelistus@gmail.com) | Data Analysis |
 | Stella (change to real name) | [your-email@example.com](mailto:your-email@example.com) | Research |
 | Tech Embassy (change to real name) | [your-email@example.com](mailto:your-email@example.com) | Documentation |
 
